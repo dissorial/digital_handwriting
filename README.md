@@ -1,4 +1,19 @@
+<div align="center">
+
 # Convert a digital text file to your handwriting
+
+<a href='https://www.linkedin.com/in/erik-z%C3%A1vodsk%C3%BD-126a82144/'>![LinkedIn](https://img.shields.io/badge/Erik%20Z%C3%A1vodsk%C3%BD-blue?style=for-the-badge&logo=linkedin&labelColor=blue)</a>
+
+![python](https://camo.githubusercontent.com/3cdf9577401a2c7dceac655bbd37fb2f3ee273a457bf1f2169c602fb80ca56f8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)
+
+Libraries used
+
+![cv2](https://img.shields.io/badge/cv2-blueviolet?style=flat-square)
+![PIL](https://img.shields.io/badge/PIL-blueviolet?style=flat-square)
+![numpy](https://img.shields.io/badge/numpy-blueviolet?style=flat-square)
+![click](https://img.shields.io/badge/altair-blueviolet?style=flat-square)
+
+</div>
 
 ## Sample #1 &ndash; my own handwriting
 
